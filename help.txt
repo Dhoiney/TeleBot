@@ -1,0 +1,7 @@
+/help - try to help you
+/start - start messaging with me:)
+/math - math you hometask :) (example : 1 + 1)
+!create - create file(example : file_name text)
+!save - save new file (example : file_name text)
+!read - read file (example : file_name)
+!update - update you file (example : file_name text)
